@@ -31,6 +31,13 @@ Eğer farklı bir cihazda testi koşmak isterseniz Virtual Device ayarlarına g�
 - [SignUpTestNG](https://github.com/PoyrazM/bootcampAppiumProject/blob/main/bootcampFinalProjectAppium/src/test/java/tests/SignUpTestNG.java)
 - [SuccessfullySignInTestNG](https://github.com/PoyrazM/bootcampAppiumProject/blob/main/bootcampFinalProjectAppium/src/test/java/tests/SuccessfullySignInTestNG.java)
 
+## Tech
+- Appium
+- Lombok
+- Faker
+- TestNG
+- Allure TestNG
+
 ## Allure Report Results
 ![appium1](https://user-images.githubusercontent.com/105527159/185833349-64ee1db9-9dfa-4213-b951-b0cafc9f2d24.PNG)
 ![appium2](https://user-images.githubusercontent.com/105527159/185833383-7f0eac61-141a-4319-a9de-d06841d5e3eb.PNG)
